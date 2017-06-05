@@ -1,0 +1,21 @@
+/* cssnext: CSS variables */
+:root {
+    --mainColor: #ffbbaaff;
+    overflow: hidden;
+}
+
+/* cssnext: custom media queries */
+@custom-media --mobile (width <= 640px);
+
+
+body {
+  margin: 0;
+}
+
+canvas {
+  vertical-align: top;
+}
+
+@media (--mobile) {
+
+}

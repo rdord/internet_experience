@@ -1,0 +1,8 @@
+1. word constructor for a random walker 
+2. spawn new instance at mouse position
+3. spawn new instance every x ms
+4. get a random word from a js object
+5. get internet buzzwords from an api
+   - http://www.macmillandictionary.com/buzzword/recent.html
+   - urbandictionary
+6. randomly spawn the word 'conscious' that travels offscreen
